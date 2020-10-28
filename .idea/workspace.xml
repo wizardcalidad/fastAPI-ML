@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd4f19f-c801-4ce2-81f8-0e3c6ffbaa18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MSFT_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/MSFT_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MSFT_plot_components.png" beforeDir="false" afterPath="$PROJECT_DIR$/MSFT_plot_components.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
