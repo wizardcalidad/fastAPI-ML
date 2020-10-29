@@ -2,6 +2,7 @@ click==7.1.2
 fastapi==0.61.1
 gunicorn==20.0.4
 h11==0.11.0
+httptools==0.1.1
 joblib==0.17.0
 marshmallow==3.8.0
 nltk==3.5
@@ -18,3 +19,4 @@ starlette==0.13.6
 threadpoolctl==2.1.0
 tqdm==4.51.0
 uvicorn==0.12.2
+uvloop==0.14.0
